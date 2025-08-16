@@ -18,6 +18,7 @@ int main(){
 	for ( int i = 0; i < str.size(); i++){
 		cout<<str[i];
 	}
-
+	sybau
 	return 0;
 }
+
